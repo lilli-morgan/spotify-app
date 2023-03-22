@@ -1,1 +1,1 @@
-# An app that takes an input of an musical artist and returns a playlist collated by the related artists.
+# An app that takes an input of a musical artist and returns a playlist collated by the related artists.
